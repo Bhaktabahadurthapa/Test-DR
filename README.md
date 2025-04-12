@@ -9,6 +9,7 @@ Modules:
     - random: Used to randomly select disaster events and outcomes.
     - time: Used to introduce delays for better user experience.
 ```
+```
 Game_Features
     - Disaster Scenarios: Simulates real-world cloud failures such as region outages, database crashes, 
       and Kubernetes issues.
