@@ -1,4 +1,4 @@
-""
+```
 cloud_resilience_game.py
 This script simulates a multi-cloud disaster recovery game using Terraform and GitOps principles. 
 Players are tasked with responding to various disaster scenarios by selecting appropriate actions 
@@ -26,4 +26,4 @@ Performance Levels:
     - Learning Engineer: Needs some improvements (Score >= 60).
     - Needs Improvement: Review disaster recovery strategies (Score < 60).
 
-"""
+```
