@@ -1,13 +1,13 @@
-```
-
+##
 This script simulates a #multi-cloud #disaster recovery game using Terraform and GitOps principles. 
 Players are tasked with responding to various disaster scenarios by selecting appropriate actions 
 to mitigate the impact and recover cloud infrastructure. The game evaluates the player's 
 decision-making skills in handling cloud resilience challenges.
-Modules:
+***Modules:***
     - random: Used to randomly select disaster events and outcomes.
     - time: Used to introduce delays for better user experience.
-#Game_Features:
+```
+***Game_Features:***
     - Disaster Scenarios: Simulates real-world cloud failures such as region outages, database crashes, 
       and Kubernetes issues.
     - Terraform Actions: Provides options to rebuild infrastructure, restore state, and provision resources.
